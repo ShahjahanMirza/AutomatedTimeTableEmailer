@@ -1,0 +1,30 @@
+Subject,weekday,day,month,year,type
+Maths,Thursday,14,12,2023,prepare
+Maths,Friday,15,12,2023,prepare
+electronics,Saturday,16,12,2023,prepare
+electronics,Sunday,17,12,2023,prepare
+maths,Monday,18,12,2023,prepare
+maths,Tuesday,19,12,2023,prepare
+electronics,Wednesday,20,12,2023,prepare
+electronics,Thursday,21,12,2023,prepare
+Business Comms,Friday,22,12,2023,prepare
+Business Comms,Saturday,23,12,2023,prepare
+DSA,Sunday,24,12,2023,prepare
+DSA,Monday,25,12,2023,prepare
+DSA,Tuesday,26,12,2023,prepare
+DSA,Wednesday,27,12,2023,prepare
+DSA,Thursday,28,12,2023,EXAM
+System Design With Microprocessor,Friday,29,12,2023,prepare
+System Design With Microprocessor,Saturday,30,12,2023,prepare
+System Design With Microprocessor,Sunday,31,12,2023,prepare
+System Design With Microprocessor,Monday,1,1,2024,EXAM
+Maths,Tuesday,2,1,2024,prepare
+Maths,Wednesday,3,1,2024,EXAM
+Electronics,Thursday,4,1,2024,prepare
+Electronics,Friday,5,1,2024,EXAM
+Software engineering,Saturday,6,1,2024,prepare
+Software engineering,Sunday,7,1,2024,prepare
+Software engineering,Monday,8,1,2024,prepare
+Software engineering,Tuesday,9,1,2024,EXAM
+Business Comms,Wednesday,10,1,2024,prepare
+Business Comms,Thursday,11,1,2024,EXAM
